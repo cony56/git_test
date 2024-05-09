@@ -1,6 +1,7 @@
 {
 	"account":"ty",
 	"path":
-	{"data_path":"/data"
+	{"data_path":"/data",
+	 "root_path":"/src/code/git_practice"
 	}
 }
